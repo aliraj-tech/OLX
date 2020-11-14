@@ -1,0 +1,166 @@
+.Back{
+
+    margin-top: 50px;
+    background-color: #dce1e2;
+    border-radius: 9px ;
+  }
+  .container {
+    width: 1300px !important;
+  }
+
+  .Crds{
+
+    margin-right: 60px!important;
+    padding-bottom: 19px !important;
+  }
+  .tapa{
+      height: 0px !important;
+  }
+
+   .tht{
+     margin-top: 50px;
+   }
+.ali{
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+.foooter{
+  font: 12px sans-serif;
+  margin-top: 30px;
+}
+   
+.Pix{
+  padding-left:  100px;
+}
+.one2{
+ background-color: #f0f0f1;
+ height: 60%;
+}
+.one2>h1{
+  margin-top: 12px;
+}
+.oka{
+  margin-top: 2px;
+  width: 430px;
+  
+}
+.oka1{
+  margin-left: 15px;
+}
+.vl {
+  border-left: 3px solid gray;
+  height: 200px;
+  margin-left: 20px ;
+  margin-top: 10px;
+}
+table > tr > th{
+ font: 15px;
+}
+.Bg1{
+  .Back{
+
+    margin-top: 50px;
+    background-color: #dce1e2;
+    border-radius: 9px ;
+  }
+  .container {
+    width: 1300px !important;
+  }
+
+  .Crds{
+
+    margin-right: 60px!important;
+    padding-bottom: 19px !important;
+  }
+  .tapa{
+      height: 0px !important;
+  }
+
+   .tht{
+     margin-top: 50px;
+   }
+.ali{
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+.foooter{
+  font: 12px sans-serif;
+  margin-top: 30px;
+  background-color: black !important;
+}
+   
+.Pix{
+  padding-left:  100px;
+}
+.one2{
+ background-color: #f0f0f1;
+ height: 60%;
+}
+.one2>h1{
+  margin-top: 12px;
+}
+.oka{
+  margin-top: 2px;
+  width: 430px;
+  
+}
+.oka1{
+  margin-left: 15px;
+}
+.vl {
+  border-left: 3px solid gray;
+  height: 200px;
+  margin-left: 20px ;
+  margin-top: 10px;
+}
+table > tr > th{
+ font: 15px;
+}
+.Bg1{
+  font-weight: bolder;
+  font: 15px sans-serif;
+
+}
+.Bg{
+  font: 15px sans-serif;
+  padding-left: 130px !important ;
+  font-weight: bolder;
+}
+}
+.Bg{
+  font: 15px sans-serif;
+  padding-left: 130px !important ;
+  font-weight: bolder;
+}
+ 
+
+.bg2{
+  padding-left: 130px !important ;
+  font: 13px sans-serif;
+
+
+
+
+}
+
+
+
+.topp{
+  padding-top: 13px !important;
+}
+.end{
+  background-color: #002f34;
+  font: 14px sans-serif;
+  height: 50px;
+margin-top: 30px;
+}
+
+.enddd{
+  padding-top: 13px;
+  color: white !important;
+  padding-left: 19px;
+}
